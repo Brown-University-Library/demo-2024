@@ -1,4 +1,4 @@
 Candy
-Is dandy
+Is dandy,
 But liquor
 Is quicker
